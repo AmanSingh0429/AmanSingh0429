@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @AmanSingh0429
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Web Dev
-- 💞️ I’m looking to collaborate on projects and gain experience
-- 📫 Reach me email at:singhaman00429@gmail.com
+# 👋 Hey, I’m Aman Singh  
 
+🚀 **Passionate Full-Stack Developer** || ✨ *“Code, learn, build, repeat.”*  
+💡 I love building scalable apps, experimenting with smooth UI/UX, and turning ideas into reality.  
 
-<!---
-AmanSingh0429/AmanSingh0429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔥 About Me  
+
+- 🌐 Working with **React, Next.js, Node.js, MongoDB**  
+- 🎨 Exploring **GSAP, Locomotive Scroll, Lenis** for stunning frontend experiences  
+- 📦 Building different projects and exploring new things  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+`React` `Next.js` `JavaScript` `TypeScript` `TailwindCSS` `GSAP`  
+
+**Backend:**  
+`Node.js` `Express` `MongoDB` `Prisma` `Supabase`  
+
+**Other:**  
+`Java` `C++` `Python` `Git/GitHub` `AI Tools` `Prompting`  
+
+---
+
+## 🤝 Let’s Connect  
+
+📩 **Email:** singhaman00429@gmail.com  
